@@ -1,4 +1,4 @@
-# nlp
+# nla
 
 [自然言語解析基礎](https://kdb.tsukuba.ac.jp/syllabi/2020/GE21301/jpn/)のメモなど.
 
