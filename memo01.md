@@ -259,7 +259,9 @@
 ### 自然言語処理の研究の潮流(日進月歩)
 
 - 新たな事前学習モデルの開発
-  - BERT, Deep Contextualized Word Representations, Improving Language Understanding by Generative Pre-Training
+  - BERT
+  - Deep Contextualized Word Representations
+  - Improving Language Understanding by Generative Pre-Training
 
 - 注意機構（Attention）による適切な重みづけ
   - Sequence Classification with Human Attention
