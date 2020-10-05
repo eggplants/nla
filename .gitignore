@@ -1,0 +1,6 @@
+*.save
+*.swp
+.vscode/
+*.zip
+*.pdf
+*.pptx
