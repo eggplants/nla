@@ -1,5 +1,7 @@
 # nla
 
+[![mdlint](https://github.com/eggplants/nla/workflows/mdlint/badge.svg)](https://github.com/eggplants/nla/actions/runs/341074241)
+
 [自然言語解析基礎](https://kdb.tsukuba.ac.jp/syllabi/2020/GE21301/jpn/)のメモなど.
 
 ## スケジュール
